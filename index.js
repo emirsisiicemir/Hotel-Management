@@ -401,14 +401,14 @@ class Admin {
     const anis = new Admin("a19k", 12321);
 
 anis.registerUser(
-    "Mahir",
-    "Tokic",
+    "Emir",
+    "Sisic",
     "male",
     "1",
     25,
     "Single bed room",
     new Date(),
-    "mahko",
+    "Emiiiir",
     "0000"
 );
 
